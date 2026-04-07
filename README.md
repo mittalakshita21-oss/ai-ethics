@@ -118,15 +118,11 @@ Example:
 ```
 /screenshots
    ├── flowise-dashboard.png
-<img width="1252" height="718" alt="image" src="https://github.com/user-attachments/assets/19df9fff-88b2-4ab6-a870-82d83fbcbdd2" />
-<img width="712" height="696" alt="image" src="https://github.com/user-attachments/assets/ec2fc29c-7b61-4c02-bc98-1c695d24bb7c" />
-
    ├── chat-interface.png
-
-
    └── pipeline-architecture.png
 ```
-
+<img width="712" height="696" alt="image" src="https://github.com/user-attachments/assets/ec2fc29c-7b61-4c02-bc98-1c695d24bb7c" />
+<img width="1252" height="718" alt="image" src="https://github.com/user-attachments/assets/19df9fff-88b2-4ab6-a870-82d83fbcbdd2" />
 Then embed them like:
 
 ```markdown
