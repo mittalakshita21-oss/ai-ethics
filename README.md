@@ -1,4 +1,4 @@
-<img width="1252" height="718" alt="image" src="https://github.com/user-attachments/assets/29076723-64a4-466f-b3d1-a26015e77d97" /># 🤖 AI Conversational RAG Chatbot (Flowise)
+ 🤖 AI Conversational RAG Chatbot (Flowise)
 
 This project is a **Conversational AI chatbot built using Retrieval-Augmented Generation (RAG)** with Flowise.  
 The chatbot can answer questions from uploaded documents by retrieving relevant context and generating accurate responses using an LLM.
